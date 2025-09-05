@@ -1,4 +1,3 @@
-**Software Engineer**  
 I'm passionate about a clean architecture, creative design, and taking deep dives across web, backend, and game dev.  
 
 ---
