@@ -1,7 +1,3 @@
-I'm passionate about a clean architecture, creative design, and taking deep dives across web, backend, and game dev.  
-
----
-
 ### 🧩 Projects
 - **Web Apps**: React + Bootstrap, hosted on **AWS EC2 with load balancing and Route52 hosting**.  
 - **Backend Systems**: Spring Boot **Java** application + PostgreSQL, with secure APIs and persistence layers.  
