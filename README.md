@@ -1,3 +1,9 @@
+### 🌀 About Me
+
+Thanks for stopping by! 
+
+I'm Jose. I'm passionate about developing robust, scalable, and user-friendly software.
+
 ### 🧩 Projects
 - **Web Apps**: React + Bootstrap, hosted on **AWS EC2 with load balancing and Route52 hosting**.  
 - **Backend Systems**: Spring Boot **Java** application + PostgreSQL, with secure APIs and persistence layers.  
@@ -21,6 +27,7 @@
 ### 📫 Connect with Me
 - Portfolio: [ggworkz.co](https://ggworkz.co)  
 - LinkedIn: [jose-azuara](https://linkedin.com/in/jose-azuara/)  
+- LeetCode: [joseag312](https://leetcode.com/u/joseag312/)
 
 ---
 
